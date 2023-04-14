@@ -11,10 +11,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Sci-Fi movies and Anime, and I enjoy exploring futuristic concepts in technology.
 - - - 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kesharinilesh)  
-
+- - - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesharinilesh)](https://github.com/anuraghazra/github-readme-stats)
-
+- - - 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kesharinilesh&show_icons=true)  
-
+- - - 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kesharinilesh)  
+- - - 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kesharinilesh) 
+- - - 
+![Profile views](https://gpvc.arturio.dev/kesharinilesh)  
