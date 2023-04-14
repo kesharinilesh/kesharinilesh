@@ -1,5 +1,5 @@
-### Hi there 👋, Welcome to my profile!
-#### I am a versatile tech enthusiast
+### Hello there 👋, Welcome to my profile!
+#### I am a versatile tech enthusiast!
 ![I am a versatile tech enthusiast](https://media.licdn.com/dms/image/D5616AQH_mt-2UJfNSg/profile-displaybackgroundimage-shrink_350_1400/0/1680793628474?e=1686787200&v=beta&t=IUzwSxOBqBhmTsVmU_smENpJct0ZOs7Rc-JRHbmrUWU)
  - - - 
 - 🔭 I’m currently working on my personal projects related to Machine Learning, Data Science and Web Development.
