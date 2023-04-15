@@ -12,4 +12,4 @@
 - - -
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nileshkeshari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamnilesh_13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/enigmatic._.star/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nilesh.keshari.750)
 - - -
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kesharinilesh&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=kesharinilesh) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kesharinilesh&show_icons=true) 
