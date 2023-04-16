@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with advanced topics in AI/ML and data science to deepen my understanding and skills.
 - 💬 Ask me about anything related to computer science, data science, web development, or creative skills. I'm always happy to share my knowledge and insights.
 - ⚡ Fun fact: I'm a huge fan of Sci-Fi movies and Anime, and I enjoy exploring futuristic concepts in technology.
-- 📫 How to reach me: You can reach me through my email or connect with me through my social media handles.
+- 📫 To get in touch with me, you can either contact me via email or connect with me using my social media accounts.
 - - -
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nileshkeshari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamnilesh_13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/enigmatic._.star/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nilesh.keshari.750)
 - - -
