@@ -1,10 +1,6 @@
 <img src="Banner.png" alt="Banner"/> 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kesharinilesh&label=Profile%20Views&color=12&icon=5&pretty=true" align="right" />
-</a>
-
 ### Hello there 👋, Welcome to my Github profile! I'm a versatile tech enthusiast!  
 - - -
 
