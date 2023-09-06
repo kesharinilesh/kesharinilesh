@@ -1,7 +1,7 @@
 <img src="Banner.png" alt="Banner"/> 
 
 
-### Hello there 👋, Welcome to my Github profile! I'm a versatile tech enthusiast!  
+### Hello there 👋, Welcome to my Github profile! I'm a versatile tech enthusiast!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
 - - -
 
 - 🔭 I’m currently working on my personal projects related to Machine Learning, Data Science and Web Development.
