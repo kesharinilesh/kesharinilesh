@@ -9,7 +9,7 @@
 - 👯 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
 - 🧠 Ask me anything about Front-End, Data Science, and Machine Learning. I'm always happy to share my knowledge and insights.
 - 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
-- ⚡ Fun fact, I'm a fervent admirer of Pro-Wrestling and a dedicated follower of the Sci-Fi universe!
+- ⚡ Fun fact, I'm a fervent admirer of Pro-Wrestling and cricket, and also a dedicated follower of the DC and Marvel universe!
 - - -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nileshkeshari/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
