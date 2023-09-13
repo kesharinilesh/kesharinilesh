@@ -1,16 +1,15 @@
 
 <img src="Banner.png" alt="Banner"/> 
 
-### Hello there 👋, Welcome to my Github profile! I'm a versatile tech enthusiast!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
+### Greetings! 👋 Welcome to my GitHub realm, where I craft my personal projects with passion and precision. <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
 - - -
 
-- 🔭 I’m currently working on my personal projects related to Machine Learning, Data Science and Front-End Development.
-- 🌱 I’m currently learning Front-End development and exploring various other new technologies to enhance my skills.
-- 👯 I’m looking to collaborate on Open Source projects and contribute to the community by sharing my knowledge and skills.
-- 🤔 I’m looking for help with advanced topics in AI/ML and data science to deepen my understanding and skills.
-- 💬 Ask me about anything related to data science and machine learning. I'm always happy to share my knowledge and insights.
-- 📫 Feel free to explore and contribute to any of my projects, and don't hesitate to reach out if you have any questions or feedback. 
-- ⚡ Fun fact: I'm a big fan of Pro-Wrestling and Sci-Fi movies.
+- 👨‍💻 I'm a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
+- 🔭 Currently immersed in the realms of Machine Learning, Data Science, and Front-End Development.
+- 👯 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
+- 🧠 Ask me anything about Front-End, Data Science, and Machine Learning. I'm always happy to share my knowledge and insights.
+- 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
+- ⚡ Fun fact, I'm a fervent admirer of Pro-Wrestling and a dedicated follower of the Sci-Fi universe!
 - - -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nileshkeshari/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
