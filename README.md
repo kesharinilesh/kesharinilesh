@@ -1,11 +1,13 @@
 
 <img src="Banner.png" alt="Banner"/> 
 
-### Greetings! 👋 Welcome to my GitHub realm, where I craft my personal projects with passion and precision. <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
+### Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision. 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
+
 - - -
 
 - 👨‍💻 I'm a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
-- 🔭 Currently immersed in the realms of Machine Learning, Data Science, and Front-End Development.
+- 🔭 Currently immersed in the realm of Front-End Development.
 - 👯 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
 - 🧠 Ask me anything about Front-End, Data Science, and Machine Learning. I'm always happy to share my knowledge and insights.
 - 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
