@@ -1,7 +1,7 @@
 
 <img src="Banner.png" alt="Banner"/> 
 
-### Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision. 
+<b> Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision. </b>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" /> </p>
 
 - - -
