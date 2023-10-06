@@ -4,10 +4,10 @@
 <b> Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision.</b><img align="right" src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" />
 
 
-- - -
+- - - 
 
 - 👨‍💻 I'm a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
-- 🔭 Currently immersed in the realm of Front-End Development.
+- 🔭 Currently immersed in the realm of Full_Stack Development.
 - 👯 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
 - 🧠 Ask me anything about Front-End, Data Science, and Machine Learning. I'm always happy to share my knowledge and insights.
 - 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
@@ -19,4 +19,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/enigmatic._.star/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nilesh.keshari.750) 
-
+- - -
+<!--
+## 📊 Github Stats
+<a>![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesharinilesh&show_icons=true&theme=transparent)
+<img alt="Nilesh's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesharinilesh&layout=compact&theme=transparent" align="right" />
+</a>
+<br>
+-->
