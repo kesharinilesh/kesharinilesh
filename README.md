@@ -1,15 +1,13 @@
 
 <img src="Banner.png" alt="Banner"/> 
 
-<b> Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision.</b><img align="right" src="https://komarev.com/ghpvc/?username=Kesharinilesh&label=Profile%20views&color=0e75b6&style=flat" alt="kesharinilesh" />
-
+### Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision.
 
 - - - 
 
-- 👨‍💻 I'm a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
-- 🔭 Currently immersed in the realm of Full_Stack Development.
-- 👯 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
-- 🧠 Ask me anything about Front-End, Data Science, and Machine Learning. I'm always happy to share my knowledge and insights.
+- 👨‍💻 I'm Nilesh, a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
+- 🔭 Currently immersed in the realm of Full-Stack Development.
+- 🧠 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
 - 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
 - ⚡ Fun fact, I'm a fervent admirer of Pro-Wrestling and cricket, and also a dedicated follower of the DC and Marvel universe!
 - - -
