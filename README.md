@@ -1,16 +1,18 @@
 
 <img src="Banner.png" alt="Banner"/> 
 
-### Greetings! 👋 Welcome to my GitHub, where I craft my personal projects with passion and precision.
+### Greetings! 👋 Welcome to my GitHub, where I craft my projects passionately and precisely.
 
 - - - 
 
-- 👨‍💻 I'm Nilesh, a versatile tech enthusiast, ready to embark on exciting coding adventures with you! 
-- 🔭 Currently immersed in the realm of Full-Stack Development.
-- 🧠 I seek guidance to deepen my understanding, where each lesson adds to the grand design. 
-- 📫 Explore and enrich any of my projects, and remember, your questions and feedback are treasures I eagerly await.
-- ⚡ Fun fact, I'm a fervent admirer of Pro-Wrestling and cricket, and also a dedicated follower of the DC and Marvel universe!
+- 👨‍💻 I'm Nilesh, a versatile tech enthusiast, ready to embark on exciting coding adventures! 
+- 🔭 Currently immersed in the realm of Full-Stack Development, exploring its depths and pushing boundaries.
+- 🧠 I seek guidance to deepen my understanding, your questions and feedback are treasures I eagerly await!
+- ⚡ Interests: 🎲 Chess, 🏏 Cricket, 💪 Pro-Wrestling, 🎌 Anime, 🚀 Sci-Fi movies, and of course, 🦸 Marvel fan!
+- Let's connect and collaborate on projects that ignite our passions! 🌟
+
 - - -
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nileshkeshari/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamnilesh_13) &nbsp;
