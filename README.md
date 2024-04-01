@@ -9,7 +9,7 @@
 - 🔭 Currently immersed in the realm of Full-Stack Development, exploring its depths and pushing boundaries.
 - 🧠 I seek guidance to deepen my understanding, your questions and feedback are treasures I eagerly await!
 - ⚡ Interests: 🎲 Chess, 🏏 Cricket, 💪 Pro-Wrestling, 🎌 Anime, 🚀 Sci-Fi movies, and of course, 🦸 Marvel fan!
-- Let's connect and collaborate on projects that ignite our passions! 🌟
+- 🚀 Let's connect and collaborate on projects that ignite our passions! 🌟
 
 - - -
 
