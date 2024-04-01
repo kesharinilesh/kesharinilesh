@@ -20,9 +20,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nilesh.keshari.750) 
 <hr>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kesharinilesh&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesharinilesh&theme=tokyonight)](https://github.com/kesharinilesh)
-[![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kesharinilesh&theme=tokyonight)](https://github.com/kesharinilesh)
-[![Contributions Stats](https://github-readme-streak-stats.herokuapp.com/?user=kesharinilesh&theme=tokyonight&hide_border=true)](https://github.com/kesharinilesh) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kesharinilesh&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesharinilesh&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kesharinilesh&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kesharinilesh&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kesharinilesh&theme=github_dark&utcOffset=8)
 
 <!--
 ## 📊 Github Stats
